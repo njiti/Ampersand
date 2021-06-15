@@ -68,7 +68,7 @@ p{
     background: #563434;
 }
 .header{
-    background: radial-gradient(#fff,#ffd6d6)
+    background: radial-gradient(#fff,#ffd6d6);
 }
 .header .row{
     margin-top: 70px;
@@ -132,7 +132,7 @@ h4{
 }
 /*--offer--*/
 .offer{
-    background: radial-gradient(#fff,#ffd6d6)
+    background: radial-gradient(#fff,#ffd6d6);
     margin-top: 80px;
     padding: 30px 0;
 }
@@ -156,5 +156,5 @@ small{
     border-radius: 50%;
 }
 .testimonial .col-3:hover{
-    transform: translateY(-10px)
+    transform: translateY(-10px);
 }
